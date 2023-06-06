@@ -1,0 +1,40 @@
+{
+  "trajectories": [
+    {
+      "id": "IC01",
+      "from": "Oostende",
+      "to": "Eupen"
+    },
+    {
+      "id": "IC02",
+      "from": "Oostende",
+      "to": "Antwerpen-Centraal"
+    },
+    {
+      "id": "IC03",
+      "from": "Genk",
+      "to": "Blankenberge"
+    },
+    {
+      "id": "L27",
+      "from": "Leuven",
+      "to": "Sint-Niklaas"
+    },
+    {
+      "id": "IC05",
+      "from": "Antwerpen-Centraal",
+      "to": "Charleroi-Centraal"
+    },
+    {
+      "id": "S32",
+      "from": "Roosendaal",
+      "to": "Puurs"
+    },
+    {
+      "id": "S33",
+      "from": "Antwerpen-Centraal",
+      "to": "Mol"
+    }
+  ]
+}
+	

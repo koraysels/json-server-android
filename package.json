@@ -1,0 +1,14 @@
+{
+    "name": "rest server",
+    "version": ".0.0",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "json-server": "^0.17.3",
+        "nodemon": "^2.0.22"
+    },
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    }
+}
